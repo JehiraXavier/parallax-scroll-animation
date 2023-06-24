@@ -2,4 +2,4 @@
 
 ## Live Demo
 
-https://parallax-scroll-animations.netlify.app/
+https://parallax-scrolls.netlify.app/
