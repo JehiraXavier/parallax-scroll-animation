@@ -17,7 +17,7 @@ body {
 }
 
 #title {
-  background-image: url(./header.jpg);
+  background-image: url(images/header.jpg);
   z-index: 2;
 }
 
@@ -71,22 +71,22 @@ body {
 }
 
 #slide_1:before {
-  background-image: url(./slide_1.jpg);
+  background-image: url(images/slide_1.jpg);
   transform: translateZ(-1px) scale(2);
 }
 
 #slide_2 {
-  background-image: url(./slide_2.jpg);
+  background-image: url(images/slide_2.jpg);
   z-index: 2;
 }
 
 #slide_3:before {
-  background-image: url(./slide_3.jpg);
+  background-image: url(images/slide_3.jpg);
   transform: translateZ(-1px) scale(2);
 }
 
 #slide_4 {
-  background-image: url(http://127.0.0.1:5500/./slide_4.svg);
+  background-image: url(/images/slide_4.svg);
   font-family: "Dancing Script", cursive;
   font-size: 4rem;
 }
